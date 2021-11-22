@@ -1,3 +1,16 @@
 body
-* {background-color: mintcream;
+.title {
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: royalblue;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.recipes{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: inset;
+    background-color:mediumspringgreen;
+    line-height: 40px;
+
 }
