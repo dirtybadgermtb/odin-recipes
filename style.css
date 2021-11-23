@@ -1,4 +1,9 @@
-body
+body {
+background-color: aqua;
+}
+
+{margin:auto;}
+
 .title {
     font-size: 75px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -6,13 +11,11 @@ body
     text-align: center;
     letter-spacing: 5px;
 }
-.recipes{
-    font-size: 20px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-style: inset;
-    background-color:mediumspringgreen;
-    line-height: 40px;
+
 }
-#id smokemeat {
-    align-items: center;
+.container {
+margin: 25px;
+width: 700px;
+height: auto;
+justify-content: right;
 }
