@@ -12,5 +12,7 @@ body
     border-style: inset;
     background-color:mediumspringgreen;
     line-height: 40px;
-
+}
+#id smokemeat {
+    align-items: center;
 }
