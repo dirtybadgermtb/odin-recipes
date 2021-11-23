@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1.8in;
+    margin-right: 1.8in;
+    }
+.header {
+    font-size: 75px;
+}
+
+    div.centered {
+        text-align: center;
+    }
