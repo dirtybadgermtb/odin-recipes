@@ -1,0 +1,32 @@
+/* this will apply the color to the entire page or everything in the body */
+body {
+background-color: aqua;
+}
+
+/* this is called a grouping selector: two groups of elements that share some of their style declarations */
+.title, 
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* this will only apply to the class "title" */
+.title {
+    font-size: 75px;
+ color: royalblue;
+    text-align: center;
+}
+
+/* to align a image, first wrap it in a div 
+i.e: <div class="box">
+        <img src="https://dirtybadgermtb.github.io/odin-recipes/images/bbq.jpeg">
+    </div> then use the text-align function to center  */
+
+div.box {
+    text-align: center;
+}
+
+.recipes {
+    font-size: 25px;
+    text-align: left;
+    margin-left: 1.8in;
+}
