@@ -1,6 +1,6 @@
 /* this will apply the color to the entire page or everything in the body */
 body {
-background-color: aqua;
+background-color: red;
 }
 
 /* this is called a grouping selector: two groups of elements that share some of their style declarations */
