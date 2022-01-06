@@ -18,7 +18,7 @@ background-color: red;
 
 /* to align a image, first wrap it in a div 
 i.e: <div class="box">
-        <img src="https://dirtybadgermtb.github.io/odin-recipes/images/prep.jpeg">
+        <img src="https://dirtybadgermtb.github.io/odin-recipes/images/smokemeat.jpeg">
     </div> then use the text-align function to center  */
 
 div.box {
