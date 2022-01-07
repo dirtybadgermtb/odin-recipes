@@ -3,7 +3,8 @@ body {
 background-color: red;
 }
 
-/* this is called a grouping selector: two groups of elements that share some of their style declarations */
+/* this is called a grouping selector: two groups of 
+elements that share some of their style declarations */
 .title, 
 .recipes {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -18,11 +19,14 @@ background-color: red;
 
 /* to align a image, first wrap it in a div 
 i.e: <div class="box">
+
         <img src="https://dirtybadgermtb.github.io/odin-recipes/images/prep.jpeg">
     </div> then use the text-align function to center  */
 
 div.box {
     text-align: center;
+    width: 700 px;
+    height: auto;
 }
 
 .recipes {
